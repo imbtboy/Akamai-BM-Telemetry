@@ -3,4 +3,4 @@ Generate the value of the parameter named Akamai-BM-Telemetry in the Akamai2.0 h
 
 contact me: https://t.me/shineho
 
-update: 2023-03-10
+update: 2023-08-24
